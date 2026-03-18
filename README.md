@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Estevan DeVargas
 
-<!--
-**estevand04/estevand04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the University of New Mexico interested in FPGA design, embedded systems, digital logic, and cybersecurity.
 
-Here are some ideas to get you started:
+## Technical Interests
+- FPGA development
+- VHDL and digital logic design
+- Embedded systems
+- C and C++ programming
+- Hardware-oriented cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### Image Processing in C
+Built a C-based image processing program that loads image data, converts images to grayscale, and applies blur filtering using convolution-based operations.
+
+### FPGA Digital Logic Design
+Designed and tested digital logic projects in Vivado on a Nexys FPGA board, including latch, multiplexer, adder, comparator, and structural-design labs.
+
+### Calendar & Clock Notification System
+Currently developing a LabVIEW-based scheduling and notification system with a real-time clock and event alerts.
+
+## Skills
+C, C++, VHDL, FPGA, Vivado, LabVIEW, MATLAB, Digital Logic Design, Embedded Systems, Linux, Git
+
+## Contact
+- LinkedIn: https://linkedin.com/in/your-link
+- Email: estevandevargas03@gmail.com
